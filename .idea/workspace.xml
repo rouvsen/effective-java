@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbf9838e-5eb0-4390-8e7b-087f5000741a" name="Changes" comment="init file">
+    <list default="true" id="dbf9838e-5eb0-4390-8e7b-087f5000741a" name="Changes" comment="Add Singleton Pattern example-2 to the project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rouvsen/SingletonPattern/SingletonExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rouvsen/SingletonPattern/SingletonExample2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699621281328</updated>
-      <workItem from="1699621282341" duration="3943000" />
+      <workItem from="1699621282341" duration="4940000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -133,7 +132,31 @@
       <option name="project" value="LOCAL" />
       <updated>1699626284753</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update init file">
+      <option name="closed" value="true" />
+      <created>1699626299497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699626299497</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Singleton Pattern example-1 to the project">
+      <option name="closed" value="true" />
+      <created>1699626330578</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699626330578</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Singleton Pattern example-2 to the project">
+      <option name="closed" value="true" />
+      <created>1699626336331</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699626336331</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +177,9 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Add BuilderPattern with readMe file to the project" />
     <MESSAGE value="init file" />
-    <option name="LAST_COMMIT_MESSAGE" value="init file" />
+    <MESSAGE value="update init file" />
+    <MESSAGE value="Add Singleton Pattern example-1 to the project" />
+    <MESSAGE value="Add Singleton Pattern example-2 to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Singleton Pattern example-2 to the project" />
   </component>
 </project>
