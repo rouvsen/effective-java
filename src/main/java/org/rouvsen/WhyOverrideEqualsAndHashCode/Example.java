@@ -52,5 +52,11 @@ public class Example {
         // They have same hashCodes (looks fields multiply logic), and
         // equality logic see that all of Object's field values are same
 
+        //Note:
+        //If you override Equals, you should override HashCode
+        //If you're overriding equals but not hashCode
+        //Compare time between two Objects, it doesn't enter equals method
+        //it doesn't look equals method, if you don't use hashCode with Equals
+
     }
 }
