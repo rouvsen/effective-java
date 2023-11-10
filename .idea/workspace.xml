@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbf9838e-5eb0-4390-8e7b-087f5000741a" name="Changes" comment="Add BuilderPattern with readMe file to the project">
+    <list default="true" id="dbf9838e-5eb0-4390-8e7b-087f5000741a" name="Changes" comment="init file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rouvsen/SingletonPattern/SingletonExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rouvsen/SingletonPattern/SingletonExample2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699621281328</updated>
-      <workItem from="1699621282341" duration="3434000" />
+      <workItem from="1699621282341" duration="3943000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -124,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699624593650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init file">
+      <option name="closed" value="true" />
+      <created>1699626284753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699626284753</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +153,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Add BuilderPattern with readMe file to the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BuilderPattern with readMe file to the project" />
+    <MESSAGE value="init file" />
+    <option name="LAST_COMMIT_MESSAGE" value="init file" />
   </component>
 </project>
